@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/cron": "^2.0.0",
     "@types/node": "^24.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^6.0.0"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.162.0",
